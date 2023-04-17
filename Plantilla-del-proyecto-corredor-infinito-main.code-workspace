@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plantilla-del-proyecto-corredor-infinito-main"
+	}
+}
